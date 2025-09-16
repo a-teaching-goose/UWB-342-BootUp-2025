@@ -1,5 +1,7 @@
 # UWB 342 – Git & GitHub BootUp
 
+## Zoom
+[Link](https://washington.zoom.us/j/95310948090)
 
 ## Why Use Git?
 
