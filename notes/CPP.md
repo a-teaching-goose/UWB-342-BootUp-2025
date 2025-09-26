@@ -1,7 +1,7 @@
 # C++
 
 ## Session recording
-[Video](TBD)
+[Video](https://youtu.be/PI5wJa_YhpY)
 
 ---
 
